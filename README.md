@@ -30,6 +30,3 @@ Este repositório contém materiais, exercícios, projetos e anotações referen
    - Programação dinâmica
    - Algoritmos gulosos (greedy)
 7. **Resolução de problemas e desafios de lógica**
-
-## 🗂 Estrutura do Repositório
-
